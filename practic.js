@@ -14,3 +14,4 @@ function changeGreed(){
 console.log(greet);
 
 greedSecond();
+console.log();
