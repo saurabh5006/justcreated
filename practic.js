@@ -6,7 +6,7 @@ function changeGreed(){
     console.log(greet);
 
     function  greedSecond(){
-        console.log(greet);
+        console.log(greet);  // this is called lexcical greed because inner function is calling variable of the outer function 
     }
     greedSecond();
 }
